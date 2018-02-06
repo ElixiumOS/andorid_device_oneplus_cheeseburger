@@ -1,3 +1,3 @@
-add_lunch_combo discovery_cheeseburger-userdebug
-add_lunch_combo discovery_cheeseburger-user
-add_lunch_combo discovery_cheeseburger-eng
+add_lunch_combo elix_cheeseburger-userdebug
+add_lunch_combo elix_cheeseburger-user
+add_lunch_combo elix_cheeseburger-eng
